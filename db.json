@@ -1,10 +1,10 @@
 {
   "industry": [
-    { "id": 1, "title": "Advertising & Packaging", "businessunitId": [3,7] },
-    { "id": 2, "title": "Automotive", "businessunitId": [2,3,4,7] },
-    { "id": 3, "title": "Home & Building", "businessunitId": [1,2,3,4,5,7,8,9,10] },
-    { "id": 4, "title": "Maritime", "businessunitId": [3,4,7] },
-    { "id": 5, "title": "Medical & Pharmaceutical", "businessunitId": [4,6,7] }
+    { "id": 1, "title": "Advertising & Packaging", "businessunitId": ["3","7"] },
+    { "id": 2, "title": "Automotive", "businessunitId": ["2","3","4","7"] },
+    { "id": 3, "title": "Home & Building", "businessunitId": ["1","2","3","4","5","7","8","9","10"] },
+    { "id": 4, "title": "Maritime", "businessunitId": ["3","4","7"] },
+    { "id": 5, "title": "Medical & Pharmaceutical", "businessunitId": ["4","6","7"] }
   ],
   "application": [
     { "id": 1, "title": "Caravan interior", "industryId": 3 },
