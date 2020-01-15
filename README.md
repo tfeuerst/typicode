@@ -1,7 +1,10 @@
-## Try it
+## My JSON Server
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+Fake Online REST server for teams
 
-## Use your own data
+[https://my-json-server.typicode.com/tfeuerst/typicode/db](https://my-json-server.typicode.com/tfeuerst/typicode/db)
 
-Fork it and change `db.json` values or create a repo with a `db.json` file.
+## Use of data
+
+JSON data which is stored in `db.json` can be accessed by REST Api from Typicode. Use URL above shows all data.
+
