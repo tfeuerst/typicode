@@ -1,0 +1,51 @@
+{
+  "industry": [
+    { "id": 1, "title": "Advertising & Packaging", "businessunitId": [3,7] },
+    { "id": 2, "title": "Automotive", "businessunitId": [2,3,4,7] },
+    { "id": 3, "title": "Home & Building", "businessunitId": [1,2,3,4,5,7,8,9,10] },
+    { "id": 4, "title": "Maritime", "businessunitId": [3,4,7] },
+    { "id": 5, "title": "Medical & Pharmaceutical", "businessunitId": [4,6,7] }
+  ],
+  "application": [
+    { "id": 1, "title": "Caravan interior", "industryId": 3 },
+    { "id": 2, "title": "Ceiling", "industryId": 3 },
+    { "id": 3, "title": "Door panels", "industryId": 3 },
+    { "id": 4, "title": "Doors (Exterior)", "industryId": 3 },
+    { "id": 5, "title": "Doors (Interior)", "industryId": 3 },
+    { "id": 6, "title": "Facades", "industryId": 3 },
+    { "id": 7, "title": "Flooring (Interior)", "industryId": 3 },
+    { "id": 8, "title": "Furniture (Interior)", "industryId": 3 },
+    { "id": 9, "title": "Furniture (Medical)", "industryId": 3 },
+    { "id": 10, "title": "Furniture (Outdoor)", "industryId": 3 },
+    { "id": 11, "title": "Garden-surroundings", "industryId": 3 },
+    { "id": 12, "title": "Metal applications", "industryId": 3 },
+    { "id": 13, "title": "Outdoor Furniture", "industryId": 3 },
+    { "id": 14, "title": "Roofing", "industryId": 3 },
+    { "id": 15, "title": "Ship interior", "industryId": 3 },
+    { "id": 16, "title": "Swimmingpools", "industryId": 3 },
+    { "id": 17, "title": "Wall", "industryId": 3 },
+    { "id": 18, "title": "White goods", "industryId": 3 },
+    { "id": 19, "title": "Window Profiles", "industryId": 3 },
+    { "id": 20, "title": "Windows / doors repair", "industryId": 3 },
+    { "id": 21, "title": "", "industryId": 3 },
+    { "id": 22, "title": "", "industryId": 3 },
+    { "id": 23, "title": "", "industryId": 3 },
+    { "id": 24, "title": "", "industryId": 3 },
+    { "id": 25, "title": "", "industryId": 3 },
+    { "id": 26, "title": "", "industryId": 3 },
+    { "id": 27, "title": "", "industryId": 3 },
+    { "id": 28, "title": "some comment", "industryId": 3 }
+  ],
+  "businessunit": [
+	{ "id": 1, "title": "RENOLIT ADVANCED SHEETS RENOLIT ONDEX PRODUCTS" },
+	{ "id": 2, "title": "RENOLIT COMPOSITES" },
+	{ "id": 3, "title": "RENOLIT CONTACT" },
+	{ "id": 4, "title": "RENOLIT DESIGN" },
+	{ "id": 5, "title": "RENOLIT EXTERIOR" },
+	{ "id": 6, "title": "RENOLIT MEDICAL" },
+	{ "id": 7, "title": "RENOLIT PROFESSION" },
+	{ "id": 8, "title": "RENOLIT WATERPROOFING CIVIL ENGINEERING PRODUCTS" },
+	{ "id": 9, "title": "RENOLIT WATERPROOFING ROOFING" },
+	{ "id": 10, "title": "RENOLIT WATERPROOFING SWIMMINGPOOL" }
+  ]
+}
