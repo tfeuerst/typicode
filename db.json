@@ -1,36 +1,46 @@
 {
   "industry": [
-    { "id": 1, "title": "Advertising & Packaging", "businessunit": {
-		{ "id": 3, "title": "RENOLIT CONTACT" },
-		{ "id": 7, "title": "RENOLIT PROFESSION" }
-	}},
-    { "id": 2, "title": "Automotive", "businessunit": {
-		{ "id": 2, "title": "RENOLIT COMPOSITES" },
-		{ "id": 3, "title": "RENOLIT CONTACT" },
-		{ "id": 4, "title": "RENOLIT DESIGN" },
-		{ "id": 7, "title": "RENOLIT PROFESSION" }	
-	}},
-    { "id": 3, "title": "Home & Building", "businessunit": {
-		{ "id": 1, "title": "RENOLIT ADVANCED SHEETS RENOLIT ONDEX PRODUCTS" },
-		{ "id": 2, "title": "RENOLIT COMPOSITES" },
-		{ "id": 3, "title": "RENOLIT CONTACT" },
-		{ "id": 4, "title": "RENOLIT DESIGN" },
-		{ "id": 5, "title": "RENOLIT EXTERIOR" },
-		{ "id": 7, "title": "RENOLIT PROFESSION" },
-		{ "id": 8, "title": "RENOLIT WATERPROOFING CIVIL ENGINEERING PRODUCTS" },
-		{ "id": 9, "title": "RENOLIT WATERPROOFING ROOFING" },
-		{ "id": 10, "title": "RENOLIT WATERPROOFING SWIMMINGPOOL" }
-	}},
-    { "id": 4, "title": "Maritime", "businessunit": {
-		{ "id": 3, "title": "RENOLIT CONTACT" },
-		{ "id": 4, "title": "RENOLIT DESIGN" },
-		{ "id": 7, "title": "RENOLIT PROFESSION" }	
-	}},
-    { "id": 5, "title": "Medical & Pharmaceutical", "businessunit": {
-		{ "id": 4, "title": "RENOLIT DESIGN" },
-		{ "id": 6, "title": "RENOLIT MEDICAL" },
-		{ "id": 7, "title": "RENOLIT PROFESSION" },
-	}}
+    { "id": 1, "title": "Advertising & Packaging", 
+		"businessunit": [
+			{ "id": 3, "title": "RENOLIT CONTACT" },
+			{ "id": 7, "title": "RENOLIT PROFESSION" }
+		]
+	},
+    { "id": 2, "title": "Automotive", 
+		"businessunit": [
+			{ "id": 2, "title": "RENOLIT COMPOSITES" },
+			{ "id": 3, "title": "RENOLIT CONTACT" },
+			{ "id": 4, "title": "RENOLIT DESIGN" },
+			{ "id": 7, "title": "RENOLIT PROFESSION" }	
+		]
+	},
+    { "id": 3, "title": "Home & Building", 
+		"businessunit": [
+			{ "id": 1, "title": "RENOLIT ADVANCED SHEETS RENOLIT ONDEX PRODUCTS" },
+			{ "id": 2, "title": "RENOLIT COMPOSITES" },
+			{ "id": 3, "title": "RENOLIT CONTACT" },
+			{ "id": 4, "title": "RENOLIT DESIGN" },
+			{ "id": 5, "title": "RENOLIT EXTERIOR" },
+			{ "id": 7, "title": "RENOLIT PROFESSION" },
+			{ "id": 8, "title": "RENOLIT WATERPROOFING CIVIL ENGINEERING PRODUCTS" },
+			{ "id": 9, "title": "RENOLIT WATERPROOFING ROOFING" },
+			{ "id": 10, "title": "RENOLIT WATERPROOFING SWIMMINGPOOL" }
+		]
+	},
+    { "id": 4, "title": "Maritime", 
+		"businessunit": [
+			{ "id": 3, "title": "RENOLIT CONTACT" },
+			{ "id": 4, "title": "RENOLIT DESIGN" },
+			{ "id": 7, "title": "RENOLIT PROFESSION" }	
+		]
+	},
+    { "id": 5, "title": "Medical & Pharmaceutical", 
+		"businessunit": [
+			{ "id": 4, "title": "RENOLIT DESIGN" },
+			{ "id": 6, "title": "RENOLIT MEDICAL" },
+			{ "id": 7, "title": "RENOLIT PROFESSION" },
+		]
+	}
   ],
   "application": [
     { "id": 1, "title": "Caravan interior", "industryId": 3 },
