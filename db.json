@@ -215,46 +215,6 @@
 			"id": 20,
 			"title": "Windows / doors repair",
 			"industryId": 3
-		},
-		{
-			"id": 21,
-			"title": "",
-			"industryId": 3
-		},
-		{
-			"id": 22,
-			"title": "",
-			"industryId": 3
-		},
-		{
-			"id": 23,
-			"title": "",
-			"industryId": 3
-		},
-		{
-			"id": 24,
-			"title": "",
-			"industryId": 3
-		},
-		{
-			"id": 25,
-			"title": "",
-			"industryId": 3
-		},
-		{
-			"id": 26,
-			"title": "",
-			"industryId": 3
-		},
-		{
-			"id": 27,
-			"title": "",
-			"industryId": 3
-		},
-		{
-			"id": 28,
-			"title": "some comment",
-			"industryId": 3
 		}
 	],
 	"businessunit": [
